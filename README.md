@@ -1,4 +1,4 @@
-# Project 2: Agent memory at scale, problem statements
+# Project : Agent memory at scale, problem statements
 
 Team: Syed, Rahad.
 
