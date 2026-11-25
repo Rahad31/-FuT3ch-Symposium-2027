@@ -1,0 +1,3 @@
+test,block_size,file_size,io_engine,queue_depth,direct_io,duration_seconds,bandwidth_MiB_s,iops,average_latency_us
+sequential_write,1M,1G,sync,1,1,30,4530,4530,220.45
+sequential_read,1M,1G,sync,1,1,30,5859,5858,170.54
